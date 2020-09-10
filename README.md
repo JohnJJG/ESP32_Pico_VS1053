@@ -1,4 +1,4 @@
-Adafruit VS1053 Codec Library compatible with ESP32 Pico
+Adafruit VS1053 Codec Library modified to be compatible with ESP32 Pico
 
 This is the Adafruit library with 2 key modifications:
   - Interupt handling of DREQ modified for ESP32 (from https://github.com/danclarke/Adafruit_VS1053_Library)
